@@ -1,0 +1,15 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: content-box;
+
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+table,th {
+    border: 1px solid black;
+}
